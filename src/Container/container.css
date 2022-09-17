@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead,
+td {
+    border: 5px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+
+    text-align: center;
+}
+
+thead {
+    font-size: 35px;
+    background-color: rgb(8, 139, 215);
+}
+
+td {
+    background-color: rgb(205, 235, 253);
+    font-size: 20px;
+}
